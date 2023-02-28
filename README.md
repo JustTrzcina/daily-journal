@@ -1,3 +1,3 @@
 # Journal application
 
-Journal applicaito created during node course.
+Journal application created during node course.
